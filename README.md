@@ -1,4 +1,4 @@
-Learning C#, game development
+Learning C#, Game Development
 Discord: Weqsyy#8889
 
 <!---
