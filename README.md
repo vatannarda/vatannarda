@@ -1,3 +1,3 @@
-C++/C# Python HTML/CSS/JS MSSQL
+C++/C#/Python
 
 Web/Desktop Fullstack Dev
