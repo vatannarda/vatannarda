@@ -1,10 +1,7 @@
-# vatannarda
-
 SaaS-focused engineer building and operating production-grade software systems.
 
 Primary interests include backend architecture, automation, infrastructure, and data-driven systems, with an emphasis on reliability, security, and maintainability.
 
----
 
 ## Stack
 
