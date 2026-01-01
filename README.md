@@ -3,23 +3,23 @@ SaaS-focused engineer building and operating production-grade software systems.
 Primary interests include backend architecture, automation, infrastructure, and data-driven systems, with an emphasis on reliability, security, and maintainability.
 
 
-###**Languages**
+###Languages
 C, C++, C#, Python, Ruby, TypeScript, JavaScript, HTML, CSS
 
-###**Databases**
+###Databases
 PostgreSQL, MSSQL
 
-###**Frontend**
+###Frontend
 React, Vite, SPA architecture, i18n
 
-###**Backend & Systems**
+###Backend & Systems
 Node.js, REST APIs, Auth & role systems
 
-###**DevOps & Infra**
+###DevOps & Infra
 Linux, Docker, CI/CD, Vercel, Plesk, CDN, Cloud storage
 
-###**Security & Reliability**
+###Security & Reliability
 Secure configuration, secrets management, defensive development
 
-###**Math & Modeling**
+###Math & Modeling
 Applied mathematics, differential equations, statistical modeling
