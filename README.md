@@ -1,69 +1,30 @@
-# Arda Vatan
+# vatannarda
 
 SaaS-focused engineer building and operating production-grade software systems.
 
-Primary interests include **backend architecture, automation, infrastructure, and data-driven systems**, with an emphasis on reliability, security, and maintainability.
+Primary interests include backend architecture, automation, infrastructure, and data-driven systems, with an emphasis on reliability, security, and maintainability.
 
 ---
 
 ## Stack
 
-### Languages
+**Languages**
 C, C++, C#, Python, Ruby, TypeScript, JavaScript, HTML, CSS
 
-### Databases
-PostgreSQL, Microsoft SQL Server (MSSQL)
+**Databases**
+PostgreSQL, MSSQL
 
----
+**Frontend**
+React, Vite, SPA architecture, i18n
 
-## Backend & Platform
+**Backend & Systems**
+Node.js, REST APIs, Auth & role systems
 
-- Node.js
-- REST API design
-- Authentication & role-based access control
-- Multi-tenant system design
-- Environment-based configuration & secrets management
-- Background jobs & automation workflows
+**DevOps & Infra**
+Linux, Docker, CI/CD, Vercel, Plesk, CDN, Cloud storage
 
----
+**Security & Reliability**
+Secure configuration, secrets management, defensive development
 
-## Frontend
-
-- React
-- Vite
-- SPA architecture
-- Internationalization (i18n)
-- Performance-focused UI implementation
-
----
-
-## DevOps & Infrastructure
-
-- Linux
-- Docker
-- CI/CD pipelines
-- Vercel
-- Plesk
-- FTP / SFTP
-- Reverse proxy & server configuration
-- Cloud storage & CDN integration
-- Domain, DNS, and deployment pipelines
-
----
-
-## Data & Reliability
-
-- Relational data modeling
-- Schema migrations
-- Observability-aware design
-- Failure analysis & mitigation
-- Security-first configuration
-
----
-
-## Scope
-
-- Public repositories are intentionally minimal and sanitized  
-- Sensitive logic, credentials, and internal tooling are not exposed  
-- This profile reflects **production and systems work**, not experiments or tutorials
-
+**Math & Modeling**
+Applied mathematics, differential equations, statistical modeling
