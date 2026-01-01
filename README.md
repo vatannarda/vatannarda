@@ -1,11 +1,12 @@
-# vatannarda
+# Arda Vatan
 
-Mechanical Engineering & Software  
-Automation • AI • Systems
+SaaS-focused engineer building and operating production-grade software systems.
+
+Primary interests include **backend architecture, automation, infrastructure, and data-driven systems**, with an emphasis on reliability, security, and maintainability.
 
 ---
 
-## 🧠 Core Stack
+## Stack
 
 ### Languages
 C, C++, C#, Python, Ruby, TypeScript, JavaScript, HTML, CSS
@@ -15,42 +16,54 @@ PostgreSQL, Microsoft SQL Server (MSSQL)
 
 ---
 
-## ⚙️ Software Engineering
+## Backend & Platform
 
-### Backend & Systems
 - Node.js
-- RESTful API design
-- Authentication & role-based access systems
-- Environment-based configuration & secrets handling
-- Self-hosted and cloud-based backends
-
-### Frontend
-- React
-- Vite
-- Modern SPA architecture
-- Internationalization (i18n)
-- Performance-oriented UI design
+- REST API design
+- Authentication & role-based access control
+- Multi-tenant system design
+- Environment-based configuration & secrets management
+- Background jobs & automation workflows
 
 ---
 
-## ☁️ DevOps & Infrastructure
+## Frontend
 
-- Linux-based systems
-- Docker & containerized deployments
-- CI/CD pipelines (GitHub Actions, Vercel builds)
+- React
+- Vite
+- SPA architecture
+- Internationalization (i18n)
+- Performance-focused UI implementation
+
+---
+
+## DevOps & Infrastructure
+
+- Linux
+- Docker
+- CI/CD pipelines
 - Vercel
 - Plesk
-- FTP / SFTP workflows
+- FTP / SFTP
 - Reverse proxy & server configuration
 - Cloud storage & CDN integration
 - Domain, DNS, and deployment pipelines
 
 ---
 
-## 🔐 Security & Reliability
+## Data & Reliability
 
-- Secure configuration practices
-- Secrets management
-- Defensive development mindset
-- Threat awareness and risk mitigation
-- Audit-oriented system design
+- Relational data modeling
+- Schema migrations
+- Observability-aware design
+- Failure analysis & mitigation
+- Security-first configuration
+
+---
+
+## Scope
+
+- Public repositories are intentionally minimal and sanitized  
+- Sensitive logic, credentials, and internal tooling are not exposed  
+- This profile reflects **production and systems work**, not experiments or tutorials
+
